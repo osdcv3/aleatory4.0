@@ -496,5 +496,4 @@ Tie,
 IA,
 IAmove1, 
 IAalter, 
-priorityC
-} 
+priorityC } 

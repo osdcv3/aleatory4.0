@@ -20,7 +20,9 @@ Grupo ofc para usar e tirar duvidas sobre o bot!!
  A cada divisão, é um comando que deves lançar no termux, e apertar enter, junto mesmo, da fórma que tiver.
 
 (1)--------------------------------------
+
 (Aqui vai ser preciso apertar enter, quando lançar esse comando, quando ele pausar e aparecer "[default=N] ?", Ok?)
+
 ------------------------------------------
 
 pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install wget -y && pkg install git -y && pkg install python -y
@@ -39,6 +41,7 @@ pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-l
        git clone https://github.com/Josival321/aleatory.git
 
 (5)----------------------------------------
+
 (Quando terminar esse, vai ser o final)
 
             cd aleatory

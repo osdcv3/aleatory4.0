@@ -1,5 +1,27 @@
 const gitdobot = (prefix) => {
 return`
+
+=======≠≠≠===========≠≠========
+
+Meu Canal: https://youtube.com/c/aleatoryconteudos
+
+===============================
+
+ACODE DOWNLOAD:
+https://www.mediafire.com/download/39o3dijk4tqyk2f
+
+======≠≠================≠≠======
+
+TERMUX "VERSÃO 117"
+ PRA ANDROID 7 PRA CIMA: https://www.mediafire.com/download/plyu1fbkc9hpss4
+
+=====≠≠===========≠≠============
+
+ZARCHIVER PRO:
+https://www.mediafire.com/download/1zoqguo9x5zkapx
+
+=====≠≠========≠≠===============
+
 O INDEX ESTÁ CRIPTOGRAFADO, MAS DA PRA SER DONO E ALTERAR OS MENU.
 
 QUISER O INDEX DESCRIPTOGRAFADO, SÓ NEGOCIANDO COM O DONO. 
@@ -95,26 +117,7 @@ Se quer alterar a foto do menu, só ir na pasta do bot que estará no armazename
 
 Para gerar outro qrcode, você precisa apagar o arquivo BarBar.json, que fica dentro da pasta do bot, depois ligar normalmente.
 
-=======≠≠≠===========≠≠========
 
-Meu Canal: https://youtube.com/c/aleatoryconteudos
-
-===============================
-
-ACODE DOWNLOAD:
-https://www.mediafire.com/download/39o3dijk4tqyk2f
-
-======≠≠================≠≠======
-
-TERMUX "VERSÃO 117"
- PRA ANDROID 7 PRA CIMA: https://www.mediafire.com/download/plyu1fbkc9hpss4
-
-=====≠≠===========≠≠============
-
-ZARCHIVER PRO:
-https://www.mediafire.com/download/1zoqguo9x5zkapx
-
-=====≠≠========≠≠===============
 `
 }
 
