@@ -1,1 +1,0 @@
-exports.jrb = require('./jrb')

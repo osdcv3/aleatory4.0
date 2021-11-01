@@ -1,1 +1,0 @@
-exports.jrp = require('./jrp')

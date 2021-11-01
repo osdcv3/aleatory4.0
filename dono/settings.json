@@ -1,11 +1,7 @@
 {
 	"prefix": "!",
-	"ownerNumber": "SEU-NUMERO-JUNTO",
-	"NumeroDono": "SEU-NÚMERO-JUNTO-DNV",
-	"NamaOwner": "NOME-DO-DONO",
-	"NamaBot": "NOME-DO-BOT",
-	"instagram": "OFF",
-	"ytb": "OFF",
-	"memberlimit": "1",
-	"limitawal": "9999"
+	"NomeDoBot": "NOME-DO-BOT",
+	"NickDono": "Nick-do-Dono",
+	"numerodono": "Seu-Numero-Junto",
+	"dapuhykey": "itVoBfpbjmi9yl1"
 }
