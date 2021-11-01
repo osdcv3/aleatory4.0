@@ -11,6 +11,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ┊✾⋟ ${prefix}gostosa (marca (@))
 ┊✾⋟ ${prefix}beijo (marca (@))
 ┊✾⋟ ${prefix}tapa (marca (@))
+┊✾⋟ ${prefix}matar (marca (@))
 ┊✾⋟ ${prefix}chute (marca (@))
 ┊✾⋟ ${prefix}dogolpe (marca (@))   
 ┊✾⋟ ${prefix}nazista (marca (@))
