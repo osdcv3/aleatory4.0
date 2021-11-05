@@ -14,6 +14,8 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ┊  ✰•IMPORTANTE•✰
 ├┈┈┈┈┈❲⌬❳┈┈┈┈┈╯
 ┊
+┊✾⋟ ${prefix}infopalavrão
+┊✾⋟ ${prefix}infolistanegra
 ┊✾⋟ ${prefix}infobancarac
 ┊✾⋟ ${prefix}infovotação
 ┊✾⋟ ${prefix}infocontador

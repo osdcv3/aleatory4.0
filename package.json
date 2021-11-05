@@ -25,7 +25,7 @@
   "homepage": "https://github.com/Josival321/aleatory/readme",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.2",
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@kagchi/kag-api": "^2.0.0",
     "async": "^3.2.1",
     "tiktok-scraper": "^1.4.12", 
